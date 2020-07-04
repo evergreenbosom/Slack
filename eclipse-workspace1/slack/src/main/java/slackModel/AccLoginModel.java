@@ -3,7 +3,8 @@ package slackModel;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-
+//Model Test
+//Author - Imran
 public class AccLoginModel extends ModelBase {
 
 	public AccLoginModel(WebDriver d) {
